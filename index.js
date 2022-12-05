@@ -4,6 +4,5 @@ const capitalize = (text) => {
   return `${firstChar}${restSubstring}`
 };
 
-console.log(capitalize('hello'));
 
 export default capitalize;
